@@ -76,11 +76,9 @@ This maintenance guide is for performing an oil and filter change on a 2016-2022
 
 ### 4. Torque Specifications
 
-* **OIL FILTET DRAIN PLUG TORQUE** **9 ft-lbs** or **12.5 Nm**
-* **OIL FILTER CAP TORQUE:** **18 ft-lbs** or **25 Nm**. Do not overtighten, as the housing is plastic.
-
-
-* **DRAIN PLUG TORQUE:** **30 ft-lbs** or **40 Nm**.
+* **OIL FILTER DRAIN PLUG TORQUE** **9 ft-lbs** or **12.5 Nm**
+* **OIL FILTER CANISTER TORQUE:** **18 ft-lbs** or **25 Nm**. Do not overtighten, as the housing is plastic.
+* **OIL PAN DRAIN PLUG TORQUE:** **30 ft-lbs** or **40 Nm**.
 
 
 * **Clean-up:** Use a rag or brake cleaner to wipe away any oil residue to ensure no drips remain.
